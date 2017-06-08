@@ -1,4 +1,4 @@
-package meghal.developer.nightsight.project.ui.application;
+package com.techhades.luna.ui.application;
 
 import android.app.Application;
 

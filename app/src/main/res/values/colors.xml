@@ -18,6 +18,8 @@
     <color name="whitish">#FFE5D4</color>
     <color name="light_blue">#7EBDC3</color>
     <color name="light_green">#29E7CD</color>
+    <color name="aqua">#00FFFF</color>
+    <color name="silver">#C0C0C0</color>
 </resources><!--
 <color name="black">#000000</color>
 <color name="orange">#FFA726</color>

@@ -1,27 +1,35 @@
 {
   "project_info": {
-    "project_number": "209859409424",
-    "firebase_url": "https://admob-app-id-2720978403.firebaseio.com",
-    "project_id": "admob-app-id-2720978403",
-    "storage_bucket": "admob-app-id-2720978403.appspot.com"
+    "project_number": "84113119814",
+    "firebase_url": "https://luna-8ef17.firebaseio.com",
+    "project_id": "luna-8ef17",
+    "storage_bucket": "luna-8ef17.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:209859409424:android:5a60f753b83456c5",
+        "mobilesdk_app_id": "1:84113119814:android:14f261dd0050f780",
         "android_client_info": {
-          "package_name": "meghal.developer.nightsight.project"
+          "package_name": "com.techhades.luna"
         }
       },
       "oauth_client": [
         {
-          "client_id": "209859409424-lpn9tn664t4dv3134lo2qsettqcj5fgv.apps.googleusercontent.com",
+          "client_id": "84113119814-f6gk3d8op5uehhvhle4m333d0qmcomcg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techhades.luna",
+            "certificate_hash": "778d7019a0fe553b56ba4b0cef1ca26c003fa86f"
+          }
+        },
+        {
+          "client_id": "84113119814-4e6nu1prff4e0bnuhn1qlsl6fe3mjcpi.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDfT10qNqXdFxNlSlP9ncEJ3lzdCxweOFE"
+          "current_key": "AIzaSyAsr7gAE3J-6YDF_DgcKcNzwKOjbiJJlqg"
         }
       ],
       "services": {
@@ -29,8 +37,13 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84113119814-4e6nu1prff4e0bnuhn1qlsl6fe3mjcpi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
           "status": 2

@@ -3,22 +3,30 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/splashBackground"
-    tools:context="meghal.developer.nightsight.project.ui.SplashScreen">
+    android:background="@color/silver"
+    tools:context="com.techhades.luna.ui.SplashScreen">
 
     <ImageView
         android:id="@+id/logo"
+        android:layout_width="160dp"
+        android:layout_height="160dp"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="100dp"
-        android:src="@drawable/logo"
-        android:layout_width="160dp"
-        android:layout_height="160dp" />
+        android:src="@mipmap/luna" />
 
-    <ImageView
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/logo"
+        android:layout_alignStart="@+id/logo"
         android:layout_below="@+id/logo"
-        android:src="@drawable/ns1"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
+        android:layout_marginTop="93dp"
+        android:background="@android:color/transparent"
+        android:ems="5"
+        android:inputType="text"
+        android:text="@string/app_name"
+        android:textSize="10mm" />
 
 </RelativeLayout>
 

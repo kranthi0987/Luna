@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="meghal.developer.nightsight.project.ui.setting.view.Setting">
+    tools:context="com.techhades.luna.ui.setting.view.Setting">
 
     <android.support.v7.widget.Toolbar
         android:id="@+id/toolbar"
